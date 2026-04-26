@@ -1,7 +1,10 @@
 # ARCHITECTURAL REALIGNMENT: THE LLAMAA 70B PIVOT
 
 **Date:** 2026-04-26
+**Time:** 17:15
+**Topic:** Architectural Realignment
 **Category:** Strategic
+**Tags:** [architecture, llama, pivot]
 **Importance:** Critical
 
 ## Summary
@@ -16,8 +19,3 @@ The intelligence architecture for ZeroGap has been fundamentally restructured. T
 - **Willow's Brain (Orchestrator):** MiniMax M2.7 230B
 - **ZeroGap/Sully (Compliance Expert):** Llama 3.3 70B
 - **Vision/OCR:** Qwen2.5-VL 7B
-
-## Next Steps
-- Download Llama 3.3 70B base weights.
-- Configure Unsloth fine-tuning environment.
-- Execute training once the target Alpaca pair count is reached.
